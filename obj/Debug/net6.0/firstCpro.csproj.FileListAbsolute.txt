@@ -1,0 +1,15 @@
+/home/hein/Desktop/firstCpro/bin/Debug/net6.0/firstCpro
+/home/hein/Desktop/firstCpro/bin/Debug/net6.0/firstCpro.deps.json
+/home/hein/Desktop/firstCpro/bin/Debug/net6.0/firstCpro.runtimeconfig.json
+/home/hein/Desktop/firstCpro/bin/Debug/net6.0/firstCpro.dll
+/home/hein/Desktop/firstCpro/bin/Debug/net6.0/ref/firstCpro.dll
+/home/hein/Desktop/firstCpro/bin/Debug/net6.0/firstCpro.pdb
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.csproj.AssemblyReference.cache
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.GeneratedMSBuildEditorConfig.editorconfig
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.AssemblyInfoInputs.cache
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.AssemblyInfo.cs
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.csproj.CoreCompileInputs.cache
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.dll
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/ref/firstCpro.dll
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.pdb
+/home/hein/Desktop/firstCpro/obj/Debug/net6.0/firstCpro.genruntimeconfig.cache

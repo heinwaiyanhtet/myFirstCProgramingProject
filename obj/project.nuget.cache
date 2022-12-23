@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Do+aqaGSNnpIjbtVtLGc7uyJAKqMuM4t1LeKUhqVZAUKRPLrUOVP8wINiB1qYecFC+X7OOXywgyfmXqjdNTmRQ==",
+  "success": true,
+  "projectFilePath": "/home/hein/Desktop/firstCpro/firstCpro.csproj",
+  "expectedPackageFiles": [
+    "/home/hein/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
